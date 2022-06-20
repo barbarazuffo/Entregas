@@ -1,0 +1,14 @@
+C:\temp\Entregas\Entregas\QuinzeDeJunho\obj\Debug\netcoreapp3.1\QuinzeDeJunho.csproj.AssemblyReference.cache
+C:\temp\Entregas\Entregas\QuinzeDeJunho\obj\Debug\netcoreapp3.1\QuinzeDeJunho.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\Entregas\Entregas\QuinzeDeJunho\obj\Debug\netcoreapp3.1\QuinzeDeJunho.AssemblyInfoInputs.cache
+C:\temp\Entregas\Entregas\QuinzeDeJunho\obj\Debug\netcoreapp3.1\QuinzeDeJunho.AssemblyInfo.cs
+C:\temp\Entregas\Entregas\QuinzeDeJunho\obj\Debug\netcoreapp3.1\QuinzeDeJunho.csproj.CoreCompileInputs.cache
+C:\temp\Entregas\Entregas\QuinzeDeJunho\bin\Debug\netcoreapp3.1\QuinzeDeJunho.exe
+C:\temp\Entregas\Entregas\QuinzeDeJunho\bin\Debug\netcoreapp3.1\QuinzeDeJunho.deps.json
+C:\temp\Entregas\Entregas\QuinzeDeJunho\bin\Debug\netcoreapp3.1\QuinzeDeJunho.runtimeconfig.json
+C:\temp\Entregas\Entregas\QuinzeDeJunho\bin\Debug\netcoreapp3.1\QuinzeDeJunho.runtimeconfig.dev.json
+C:\temp\Entregas\Entregas\QuinzeDeJunho\bin\Debug\netcoreapp3.1\QuinzeDeJunho.dll
+C:\temp\Entregas\Entregas\QuinzeDeJunho\bin\Debug\netcoreapp3.1\QuinzeDeJunho.pdb
+C:\temp\Entregas\Entregas\QuinzeDeJunho\obj\Debug\netcoreapp3.1\QuinzeDeJunho.dll
+C:\temp\Entregas\Entregas\QuinzeDeJunho\obj\Debug\netcoreapp3.1\QuinzeDeJunho.pdb
+C:\temp\Entregas\Entregas\QuinzeDeJunho\obj\Debug\netcoreapp3.1\QuinzeDeJunho.genruntimeconfig.cache

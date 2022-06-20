@@ -1,0 +1,7 @@
+C:\temp\Entregas\Entregas\SeteDeJunho\obj\Debug\SeteDeJunho.csproj.AssemblyReference.cache
+C:\temp\Entregas\Entregas\SeteDeJunho\obj\Debug\SeteDeJunho.csproj.CoreCompileInputs.cache
+C:\temp\Entregas\Entregas\SeteDeJunho\bin\Debug\SeteDeJunho.exe.config
+C:\temp\Entregas\Entregas\SeteDeJunho\bin\Debug\SeteDeJunho.exe
+C:\temp\Entregas\Entregas\SeteDeJunho\bin\Debug\SeteDeJunho.pdb
+C:\temp\Entregas\Entregas\SeteDeJunho\obj\Debug\SeteDeJunho.exe
+C:\temp\Entregas\Entregas\SeteDeJunho\obj\Debug\SeteDeJunho.pdb

@@ -1,0 +1,14 @@
+C:\temp\Entregas\Entregas\DezDeJulho\bin\Debug\netcoreapp3.1\DezDeJulho.exe
+C:\temp\Entregas\Entregas\DezDeJulho\bin\Debug\netcoreapp3.1\DezDeJulho.deps.json
+C:\temp\Entregas\Entregas\DezDeJulho\bin\Debug\netcoreapp3.1\DezDeJulho.runtimeconfig.json
+C:\temp\Entregas\Entregas\DezDeJulho\bin\Debug\netcoreapp3.1\DezDeJulho.runtimeconfig.dev.json
+C:\temp\Entregas\Entregas\DezDeJulho\bin\Debug\netcoreapp3.1\DezDeJulho.dll
+C:\temp\Entregas\Entregas\DezDeJulho\bin\Debug\netcoreapp3.1\DezDeJulho.pdb
+C:\temp\Entregas\Entregas\DezDeJulho\obj\Debug\netcoreapp3.1\DezDeJulho.csproj.AssemblyReference.cache
+C:\temp\Entregas\Entregas\DezDeJulho\obj\Debug\netcoreapp3.1\DezDeJulho.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\Entregas\Entregas\DezDeJulho\obj\Debug\netcoreapp3.1\DezDeJulho.AssemblyInfoInputs.cache
+C:\temp\Entregas\Entregas\DezDeJulho\obj\Debug\netcoreapp3.1\DezDeJulho.AssemblyInfo.cs
+C:\temp\Entregas\Entregas\DezDeJulho\obj\Debug\netcoreapp3.1\DezDeJulho.csproj.CoreCompileInputs.cache
+C:\temp\Entregas\Entregas\DezDeJulho\obj\Debug\netcoreapp3.1\DezDeJulho.dll
+C:\temp\Entregas\Entregas\DezDeJulho\obj\Debug\netcoreapp3.1\DezDeJulho.pdb
+C:\temp\Entregas\Entregas\DezDeJulho\obj\Debug\netcoreapp3.1\DezDeJulho.genruntimeconfig.cache

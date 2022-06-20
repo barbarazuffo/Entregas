@@ -1,0 +1,14 @@
+C:\temp\Entregas\Entregas\OitoDeJunho\bin\Debug\netcoreapp3.1\OitoDeJunho.exe
+C:\temp\Entregas\Entregas\OitoDeJunho\bin\Debug\netcoreapp3.1\OitoDeJunho.deps.json
+C:\temp\Entregas\Entregas\OitoDeJunho\bin\Debug\netcoreapp3.1\OitoDeJunho.runtimeconfig.json
+C:\temp\Entregas\Entregas\OitoDeJunho\bin\Debug\netcoreapp3.1\OitoDeJunho.runtimeconfig.dev.json
+C:\temp\Entregas\Entregas\OitoDeJunho\bin\Debug\netcoreapp3.1\OitoDeJunho.dll
+C:\temp\Entregas\Entregas\OitoDeJunho\bin\Debug\netcoreapp3.1\OitoDeJunho.pdb
+C:\temp\Entregas\Entregas\OitoDeJunho\obj\Debug\netcoreapp3.1\OitoDeJunho.csproj.AssemblyReference.cache
+C:\temp\Entregas\Entregas\OitoDeJunho\obj\Debug\netcoreapp3.1\OitoDeJunho.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\Entregas\Entregas\OitoDeJunho\obj\Debug\netcoreapp3.1\OitoDeJunho.AssemblyInfoInputs.cache
+C:\temp\Entregas\Entregas\OitoDeJunho\obj\Debug\netcoreapp3.1\OitoDeJunho.AssemblyInfo.cs
+C:\temp\Entregas\Entregas\OitoDeJunho\obj\Debug\netcoreapp3.1\OitoDeJunho.csproj.CoreCompileInputs.cache
+C:\temp\Entregas\Entregas\OitoDeJunho\obj\Debug\netcoreapp3.1\OitoDeJunho.dll
+C:\temp\Entregas\Entregas\OitoDeJunho\obj\Debug\netcoreapp3.1\OitoDeJunho.pdb
+C:\temp\Entregas\Entregas\OitoDeJunho\obj\Debug\netcoreapp3.1\OitoDeJunho.genruntimeconfig.cache

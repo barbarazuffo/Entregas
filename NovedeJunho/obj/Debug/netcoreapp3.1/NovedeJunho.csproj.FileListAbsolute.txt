@@ -1,0 +1,14 @@
+C:\temp\Entregas\Entregas\NovedeJunho\obj\Debug\netcoreapp3.1\NovedeJunho.csproj.AssemblyReference.cache
+C:\temp\Entregas\Entregas\NovedeJunho\obj\Debug\netcoreapp3.1\NovedeJunho.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\Entregas\Entregas\NovedeJunho\obj\Debug\netcoreapp3.1\NovedeJunho.AssemblyInfoInputs.cache
+C:\temp\Entregas\Entregas\NovedeJunho\obj\Debug\netcoreapp3.1\NovedeJunho.AssemblyInfo.cs
+C:\temp\Entregas\Entregas\NovedeJunho\obj\Debug\netcoreapp3.1\NovedeJunho.csproj.CoreCompileInputs.cache
+C:\temp\Entregas\Entregas\NovedeJunho\bin\Debug\netcoreapp3.1\NovedeJunho.exe
+C:\temp\Entregas\Entregas\NovedeJunho\bin\Debug\netcoreapp3.1\NovedeJunho.deps.json
+C:\temp\Entregas\Entregas\NovedeJunho\bin\Debug\netcoreapp3.1\NovedeJunho.runtimeconfig.json
+C:\temp\Entregas\Entregas\NovedeJunho\bin\Debug\netcoreapp3.1\NovedeJunho.runtimeconfig.dev.json
+C:\temp\Entregas\Entregas\NovedeJunho\bin\Debug\netcoreapp3.1\NovedeJunho.dll
+C:\temp\Entregas\Entregas\NovedeJunho\bin\Debug\netcoreapp3.1\NovedeJunho.pdb
+C:\temp\Entregas\Entregas\NovedeJunho\obj\Debug\netcoreapp3.1\NovedeJunho.dll
+C:\temp\Entregas\Entregas\NovedeJunho\obj\Debug\netcoreapp3.1\NovedeJunho.pdb
+C:\temp\Entregas\Entregas\NovedeJunho\obj\Debug\netcoreapp3.1\NovedeJunho.genruntimeconfig.cache

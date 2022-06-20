@@ -1,0 +1,7 @@
+C:\temp\Entregas\Entregas\Entregas\obj\Debug\Entregas.csproj.AssemblyReference.cache
+C:\temp\Entregas\Entregas\Entregas\obj\Debug\Entregas.csproj.CoreCompileInputs.cache
+C:\temp\Entregas\Entregas\Entregas\bin\Debug\Entregas.exe.config
+C:\temp\Entregas\Entregas\Entregas\bin\Debug\Entregas.exe
+C:\temp\Entregas\Entregas\Entregas\bin\Debug\Entregas.pdb
+C:\temp\Entregas\Entregas\Entregas\obj\Debug\Entregas.exe
+C:\temp\Entregas\Entregas\Entregas\obj\Debug\Entregas.pdb

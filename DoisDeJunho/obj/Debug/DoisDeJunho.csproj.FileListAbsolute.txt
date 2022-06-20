@@ -1,0 +1,6 @@
+C:\temp\Entregas\Entregas\DoisDeJunho\obj\Debug\DoisDeJunho.csproj.CoreCompileInputs.cache
+C:\temp\Entregas\Entregas\DoisDeJunho\bin\Debug\DoisDeJunho.exe.config
+C:\temp\Entregas\Entregas\DoisDeJunho\bin\Debug\DoisDeJunho.exe
+C:\temp\Entregas\Entregas\DoisDeJunho\bin\Debug\DoisDeJunho.pdb
+C:\temp\Entregas\Entregas\DoisDeJunho\obj\Debug\DoisDeJunho.exe
+C:\temp\Entregas\Entregas\DoisDeJunho\obj\Debug\DoisDeJunho.pdb
