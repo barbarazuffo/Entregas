@@ -11,9 +11,9 @@ namespace QuinzeDeJunho
                 Console.WriteLine("1-Soma\r\n2-Subtração\r\n3-Divisão\r\n4-Multiplicação");
                 int select = int.Parse(Console.ReadLine());
                 Console.WriteLine("Digite o primeiro valor");
-                double valor1 = double.Parse(Console.ReadLine());
+                decimal valor1 = decimal.Parse(Console.ReadLine());
                 Console.WriteLine("Digite o segundo valor");
-                double valor2 = double.Parse(Console.ReadLine());
+                decimal valor2 = decimal.Parse(Console.ReadLine());
                 Calculo calc = new Calculo(valor1, valor2);
 
                 if (select == 1)
@@ -39,7 +39,7 @@ namespace QuinzeDeJunho
             }
             catch (DivideByZeroException)
             {
-                Console.WriteLine("Nào pode dividir por 0");
+                Console.WriteLine("Não pode dividir por 0");
             }
             catch(FormatException)
             {
