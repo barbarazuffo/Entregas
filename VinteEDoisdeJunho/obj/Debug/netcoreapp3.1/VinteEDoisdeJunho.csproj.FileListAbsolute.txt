@@ -1,0 +1,14 @@
+C:\temp\Entregas\Entregas\VinteEDoisdeJunho\bin\Debug\netcoreapp3.1\VinteEDoisdeJunho.exe
+C:\temp\Entregas\Entregas\VinteEDoisdeJunho\bin\Debug\netcoreapp3.1\VinteEDoisdeJunho.deps.json
+C:\temp\Entregas\Entregas\VinteEDoisdeJunho\bin\Debug\netcoreapp3.1\VinteEDoisdeJunho.runtimeconfig.json
+C:\temp\Entregas\Entregas\VinteEDoisdeJunho\bin\Debug\netcoreapp3.1\VinteEDoisdeJunho.runtimeconfig.dev.json
+C:\temp\Entregas\Entregas\VinteEDoisdeJunho\bin\Debug\netcoreapp3.1\VinteEDoisdeJunho.dll
+C:\temp\Entregas\Entregas\VinteEDoisdeJunho\bin\Debug\netcoreapp3.1\VinteEDoisdeJunho.pdb
+C:\temp\Entregas\Entregas\VinteEDoisdeJunho\obj\Debug\netcoreapp3.1\VinteEDoisdeJunho.csproj.AssemblyReference.cache
+C:\temp\Entregas\Entregas\VinteEDoisdeJunho\obj\Debug\netcoreapp3.1\VinteEDoisdeJunho.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\Entregas\Entregas\VinteEDoisdeJunho\obj\Debug\netcoreapp3.1\VinteEDoisdeJunho.AssemblyInfoInputs.cache
+C:\temp\Entregas\Entregas\VinteEDoisdeJunho\obj\Debug\netcoreapp3.1\VinteEDoisdeJunho.AssemblyInfo.cs
+C:\temp\Entregas\Entregas\VinteEDoisdeJunho\obj\Debug\netcoreapp3.1\VinteEDoisdeJunho.csproj.CoreCompileInputs.cache
+C:\temp\Entregas\Entregas\VinteEDoisdeJunho\obj\Debug\netcoreapp3.1\VinteEDoisdeJunho.dll
+C:\temp\Entregas\Entregas\VinteEDoisdeJunho\obj\Debug\netcoreapp3.1\VinteEDoisdeJunho.pdb
+C:\temp\Entregas\Entregas\VinteEDoisdeJunho\obj\Debug\netcoreapp3.1\VinteEDoisdeJunho.genruntimeconfig.cache

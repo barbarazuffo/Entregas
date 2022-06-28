@@ -1,0 +1,5 @@
+C:\temp\Entregas\Entregas\VinteETresDeJunho\obj\Debug\netcoreapp3.1\VinteETresDeJunho.csproj.AssemblyReference.cache
+C:\temp\Entregas\Entregas\VinteETresDeJunho\obj\Debug\netcoreapp3.1\VinteETresDeJunho.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\Entregas\Entregas\VinteETresDeJunho\obj\Debug\netcoreapp3.1\VinteETresDeJunho.AssemblyInfoInputs.cache
+C:\temp\Entregas\Entregas\VinteETresDeJunho\obj\Debug\netcoreapp3.1\VinteETresDeJunho.AssemblyInfo.cs
+C:\temp\Entregas\Entregas\VinteETresDeJunho\obj\Debug\netcoreapp3.1\VinteETresDeJunho.csproj.CoreCompileInputs.cache
