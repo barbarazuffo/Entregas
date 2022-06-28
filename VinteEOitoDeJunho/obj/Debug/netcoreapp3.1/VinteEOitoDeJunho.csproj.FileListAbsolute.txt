@@ -1,0 +1,14 @@
+C:\temp\Entregas\Entregas\VinteEOitoDeJunho\bin\Debug\netcoreapp3.1\VinteEOitoDeJunho.exe
+C:\temp\Entregas\Entregas\VinteEOitoDeJunho\bin\Debug\netcoreapp3.1\VinteEOitoDeJunho.deps.json
+C:\temp\Entregas\Entregas\VinteEOitoDeJunho\bin\Debug\netcoreapp3.1\VinteEOitoDeJunho.runtimeconfig.json
+C:\temp\Entregas\Entregas\VinteEOitoDeJunho\bin\Debug\netcoreapp3.1\VinteEOitoDeJunho.runtimeconfig.dev.json
+C:\temp\Entregas\Entregas\VinteEOitoDeJunho\bin\Debug\netcoreapp3.1\VinteEOitoDeJunho.dll
+C:\temp\Entregas\Entregas\VinteEOitoDeJunho\bin\Debug\netcoreapp3.1\VinteEOitoDeJunho.pdb
+C:\temp\Entregas\Entregas\VinteEOitoDeJunho\obj\Debug\netcoreapp3.1\VinteEOitoDeJunho.csproj.AssemblyReference.cache
+C:\temp\Entregas\Entregas\VinteEOitoDeJunho\obj\Debug\netcoreapp3.1\VinteEOitoDeJunho.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\Entregas\Entregas\VinteEOitoDeJunho\obj\Debug\netcoreapp3.1\VinteEOitoDeJunho.AssemblyInfoInputs.cache
+C:\temp\Entregas\Entregas\VinteEOitoDeJunho\obj\Debug\netcoreapp3.1\VinteEOitoDeJunho.AssemblyInfo.cs
+C:\temp\Entregas\Entregas\VinteEOitoDeJunho\obj\Debug\netcoreapp3.1\VinteEOitoDeJunho.csproj.CoreCompileInputs.cache
+C:\temp\Entregas\Entregas\VinteEOitoDeJunho\obj\Debug\netcoreapp3.1\VinteEOitoDeJunho.dll
+C:\temp\Entregas\Entregas\VinteEOitoDeJunho\obj\Debug\netcoreapp3.1\VinteEOitoDeJunho.pdb
+C:\temp\Entregas\Entregas\VinteEOitoDeJunho\obj\Debug\netcoreapp3.1\VinteEOitoDeJunho.genruntimeconfig.cache
